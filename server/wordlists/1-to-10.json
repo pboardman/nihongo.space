@@ -1,0 +1,13 @@
+[
+    {"kana":"ゼロ", "kanji":"零", "romaji":"zero", "english":"0"},
+    {"kana":"いち", "kanji":"一", "romaji":"ichi", "english":"1"},
+    {"kana":"に", "kanji":"二", "romaji":"ni", "english":"2"},
+    {"kana":"さん", "kanji":"三", "romaji":"san", "english":"3"},
+    {"kana":"よん", "kanji":"四", "romaji":"yon", "english":"4"},
+    {"kana":"ご", "kanji":"五", "romaji":"go", "english":"5"},
+    {"kana":"ろく", "kanji":"六", "romaji":"roku", "english":"6"},
+    {"kana":"なな", "kanji":"七", "romaji":"nana", "english":"7"},
+    {"kana":"はち", "kanji":"八", "romaji":"hachi", "english":"8"},
+    {"kana":"きゅう", "kanji":"九", "romaji":"kyū", "english":"9"},
+    {"kana":"じゅう", "kanji":"十", "romaji":"jū", "english":"10"}
+]

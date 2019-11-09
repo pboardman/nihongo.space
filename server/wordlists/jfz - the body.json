@@ -1,0 +1,12 @@
+[
+    {"kana":"くち", "kanji":"口", "romaji":"kuchi", "english":"mouth"},
+    {"kana":"め", "kanji":"目", "romaji":"me", "english":"eye"},
+    {"kana":"みみ", "kanji":"耳", "romaji":"mimi", "english":"ear"},
+    {"kana":"はな", "kanji":"鼻", "romaji":"hana", "english":"nose"},
+    {"kana":"かお", "kanji":"顔", "romaji":"kao", "english":"face"},
+    {"kana":"て", "kanji":"手", "romaji":"te", "english":"hand"},
+    {"kana":"あし", "kanji":"足", "romaji":"ashi", "english":"foot"},
+    {"kana":"ゆび", "kanji":"指", "romaji":"yubi", "english":"finger"},
+    {"kana":"あたま", "kanji":"頭", "romaji":"atama", "english":"head"},
+    {"kana":"は", "kanji":"歯", "romaji":"ha", "english":"tooth"}
+]

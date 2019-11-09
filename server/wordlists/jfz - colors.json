@@ -1,0 +1,19 @@
+[
+    {"kana":"いろ", "kanji":"色", "romaji":"iro", "english":"color"},
+    {"kana":"あか", "kanji":"赤", "romaji":"aka", "english":"red"},
+    {"kana":"あお", "kanji":"青", "romaji":"ao", "english":"blue"},
+    {"kana":"くろ", "kanji":"黒", "romaji":"kuro", "english":"black"},
+    {"kana":"しろ", "kanji":"白", "romaji":"shiro", "english":"white"},
+    {"kana":"ちゃいろ", "kanji":"茶色", "romaji":"chairo", "english":"brown"},
+    {"kana":"きいろ", "kanji":"黄色", "romaji":"kiiro", "english":"yellow"},
+    {"kana":"おれんじ", "romaji":"orenji", "english":"orange"},
+    {"kana":"むらさき", "kanji":"紫", "romaji":"murasaki", "english":"purple"},
+    {"kana":"ピンク", "romaji":"pinku", "english":"pink"},
+    {"kana":"グレー", "romaji":"guree", "english":"gray"},
+    {"kana":"はいいろ", "kanji":"灰色", "romaji":"haiiro", "english":"gray"},
+    {"kana":"みずいろ", "kanji":"水色", "romaji":"mizuiro", "english":"light blue"},
+    {"kana":"みどり", "kanji":"緑", "romaji":"midori", "english":"green"},
+    {"kana":"きんいろ", "kanji":"金色", "romaji":"kiniro", "english":"gold"},
+    {"kana":"ぎんいろ", "kanji":"銀色", "romaji":"giniro", "english":"silver"},
+    {"kana":"とうめい", "kanji":"透明", "romaji":"toumei", "english":"clear"}
+]

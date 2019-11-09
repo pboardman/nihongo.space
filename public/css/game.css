@@ -1,0 +1,208 @@
+
+#info #score {
+  position: relative;
+  display: block;
+  color: #F8FDFF;
+  font-size: 40px;
+  font-weight: bold;
+  width: 33%;
+  height: 100%;
+  margin: 0;
+  line-height: 40px;
+  padding-top: 35px;
+  box-sizing: border-box;
+  float: left;
+  margin-left: 0.5%;
+}
+
+#info #score #score-red {
+  color: #B32728;
+}
+
+#info #score #score-blue {
+  color: #11779F;
+}
+
+#turn {
+  position: relative;
+  display: block;
+  height: 100%;
+  color: #F8FDFF !important;
+}
+
+#info .red {
+  color: #B32728 !important;
+}
+
+#info .blue {
+  color: #11779F !important;
+}
+
+#info #end-turn {
+  position: absolute;
+  display: block;
+  float: right;
+  margin-right: 0.5%;
+  bottom: 0;
+  right: 0;
+  width: 19%;
+  font-size: 16px;
+  background: #323032;
+  border: 2px solid #F8FDFF;
+  color: #F8FDFF;
+  text-decoration: none;
+}
+
+#info #end-turn:hover {
+  background: #686c6d;
+}
+
+#info #end-turn:disabled {
+  background: #323032;
+  border: 2px solid #686c6d;
+  color: #686c6d;
+  cursor: default;
+}
+
+#board {
+  position: relative;
+  width: 100%;
+  height: 640px;
+  margin: 0;
+  padding: 0;
+  font-size: 25px;
+  /* border-radius: 2px; */
+  color: #F8FDFF;
+  text-align: center;
+  border-color: #000000;
+  /* background: #F8FDFF; */
+  float: left;
+}
+
+.word h1 {
+  color: #F8FDFF;
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+#board .row {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#toggles {
+  position: relative;
+  font-size: 0;
+  width: 100%;
+  margin-top: 20px;
+}
+
+#toggles .toggle {
+  position: relative;
+  width: 19%;
+  float: left;
+  margin: 0.5%;
+}
+
+#toggles #new-game {
+  position: relative;
+  width: 19%;
+  right: 0;
+  float: right;
+  margin: 0.5%;
+  font-size: 16px;
+  background: #323032;
+  border: 2px solid #F8FDFF;
+  color: #F8FDFF;
+  text-decoration: none;
+}
+
+#toggles #new-game:hover {
+  background: #686c6d;
+}
+
+#toggles .toggle button {
+  width: 50%;
+  margin: 0;
+  font-size: 16px;
+  background: #686c6d;
+  border: 2px solid #686c6d;
+  color: #323032;
+  text-decoration: none;
+}
+
+#toggles .toggle button:hover {
+  background: rgb(139, 139, 139);
+}
+
+#toggles .toggle button:disabled {
+  background: #323032;
+  border: 2px solid #686c6d;
+  color: #F8FDFF;
+  cursor: default;
+  text-decoration: underline;
+}
+
+#toggles .toggle button:disabled:hover {
+  background: #323032;
+  color: #F8FDFF;
+}
+
+#toggles #player-difficulty {
+  display: none;
+}
+
+#containerSidebar {
+	position: relative;
+	margin-left: 8px;
+	width: 340px;
+	min-width: 340px;
+	flex: 0 0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between
+}
+
+#boxChat,
+#containerChat {
+	background: #eee;
+	width: 100%
+}
+
+#containerChat {
+	height: 400px;
+	padding: 4px;
+	flex: 1 0 auto;
+	/* border-radius: 2px */
+}
+
+#boxChat {
+	box-sizing: border-box;
+	height: 100%;
+}
+
+#boxChatInput {
+  height: 34px;
+  width: 100%;
+}
+#input-chat {
+  width: 100%;
+}
+
+#boxMessages {
+	height: calc(100% - 20px);
+	overflow-y: auto
+}
+
+#boxMessages p {
+	padding: 3px;
+	margin: 0;
+	word-wrap: break-word
+}
+
+#boxMessages p:nth-child(even) {
+	background: #fafafa
+}
