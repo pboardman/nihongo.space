@@ -1,0 +1,7 @@
+[
+    {"kana":"ありがとう", "romaji":"arigatou", "english":"thank you"},
+    {"kana":"おはようございます", "romaji":"ohayou gozaimasu", "english":"good morning"},
+    {"kana":"おやすみなさい", "kanji":"お休みなさい", "romaji":"oyasuminasai", "english":"good night"},
+    {"kana":"こんにちは", "kanji":"今日は", "romaji":"konnichiwa", "english":"good afternoon"},
+    {"kana":"さようなら", "romaji":"sayounara", "english":"goodbye"}
+]

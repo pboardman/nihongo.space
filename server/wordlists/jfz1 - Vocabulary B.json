@@ -1,0 +1,12 @@
+[
+    {"kana":"まくら", "kanji":"枕", "romaji":"makura", "english":"pillow"},
+    {"kana":"ベツド", "romaji":"beddo", "english":"bed"},
+    {"kana":"ふとん", "kanji":"布団", "romaji":"futon", "english":"futon"},
+    {"kana":"もうふ", "kanji":"毛布", "romaji":"moufu", "english":"blanket"},
+    {"kana":"タオル","romaji":"taoru", "english":"tower"},
+    {"kana":"おふろ", "kanji":"お風呂", "romaji":"ofuro", "english":"bath"},
+    {"kana":"せっけん", "kanji":"石けん", "romaji":"sekken", "english":"soap"},
+    {"kana":"ハブラシ", "kanji":"歯ブラシ", "romaji":"haburashi", "english":"toothbrush"},
+    {"kana":"かがみ", "kanji":"鏡", "romaji":"kagami", "english":"mirror"},
+    {"kana":"まど", "kanji":"窓", "romaji":"mado", "english":"window"}
+]

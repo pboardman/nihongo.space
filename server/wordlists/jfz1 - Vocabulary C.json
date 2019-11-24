@@ -1,0 +1,7 @@
+[
+    {"kana":"おかあさん", "kanji":"お母さん", "romaji":"okaasan", "english":"mother"},
+    {"kana":"おとうさん", "kanji":"お父さん", "romaji":"otousan", "english":"father"},
+    {"kana":"おじいさん", "romaji":"ojiisan", "english":"grandfather"},
+    {"kana":"おばあさん", "romaji":"obaasan", "english":"grandmother"},
+    {"kana":"あかちゃん", "romaji":"akachan", "english":"baby"}
+]
