@@ -2,7 +2,7 @@
 let fs = require('fs')
 
 // Load base wordlist file
-let words = JSON.parse(fs.readFileSync("./server/wordlists/jfz - colors.json"))
+let words = JSON.parse(fs.readFileSync("./server/wordlists/jfz1 - Vocabulary A.json"))
 
 // create the wordpools list
 let wordpools = []
